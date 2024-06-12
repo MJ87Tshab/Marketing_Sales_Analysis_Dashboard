@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning & Preparation](#data-cleaning-&-preparation)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Findings](#findings)
@@ -26,7 +26,7 @@ Shopping Data: The dataset used for this analysis is the "Shopping.csv" file whi
 
 - Excel - Data Cleaning, Data Analysis & Creating a report.
 
-### Data Cleaning & Preparation
+### Data Cleaning and Preparation
 
   In the beginning of the data preparation phase, I performed the following tasks:
   1. Data load and inspecting the file.
