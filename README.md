@@ -14,6 +14,11 @@
 
 This analysis aims to provide the Marketing Department with an insight on the product performance over the past period. Through this analysis of the data, I was tracking various metrics and trends over a time period which include product performance, seasonal revenue and highest sales per location.
 
+[Dashboard](dashboard.png)
+
+![Dashboard](https://github.com/MJ87Tshab/Marketing_Sales_Analysis_Dashboard/assets/171809643/99ac30c9-6153-4931-93d1-1a3b2b6ee662)
+
+
 ### Data Sources
 
 Shopping Data: The dataset used for this analysis is the "Shopping.csv" file which contains information of each sale made by the company.
