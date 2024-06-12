@@ -4,7 +4,11 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
+- [Tools](#tools)
 - [Findings](#findings)
+- [Explaratory Data Analysis](#explaratory-data)
+- [Data Analysis](#data-analysis)
+- [Recommendations](#recommendations)
 
 ## Project Overview
 
@@ -16,7 +20,7 @@ Shopping Data: The dataset used for this analysis is the "Shopping.csv" file whi
 
 ### Tools
 
-- Excel - Data Cleaning, Data Analysis & Creating a report [Download here]
+- Excel - Data Cleaning, Data Analysis & Creating a report.
 
 ### Data Cleaning & Preparation
 
