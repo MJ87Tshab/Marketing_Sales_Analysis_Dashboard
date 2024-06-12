@@ -5,16 +5,15 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Findings](#findings)
-- [Explaratory Data Analysis](#explaratory-data)
+- [Data Cleaning & Preparation](#data-cleaning-&-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
+- [Findings](#findings)
 - [Recommendations](#recommendations)
 
 ## Project Overview
 
 This analysis aims to provide the Marketing Department with an insight on the product performance over the past period. Through this analysis of the data, I was tracking various metrics and trends over a time period which include product performance, seasonal revenue and highest sales per location.
-
-[Dashboard](dashboard.png)
 
 ![Dashboard](https://github.com/MJ87Tshab/Marketing_Sales_Analysis_Dashboard/assets/171809643/99ac30c9-6153-4931-93d1-1a3b2b6ee662)
 
